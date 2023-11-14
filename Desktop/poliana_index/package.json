@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "poliana_index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "ansi-escapes": "^4.3.2",
+    "ansi-regex": "^5.0.1",
+    
+    "yargs": "^17.7.2",
+    "yargs-parser": "^21.1.1",
+    "yocto-queue": "^0.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
